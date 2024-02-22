@@ -1,0 +1,275 @@
+
+
+/* *{
+
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+ scroll-behavior: smooth;
+
+} */
+    
+    /* ssection 1 */
+.nav{
+    
+position: sticky;
+top: 0;
+    background: rgb(65, 57, 57);
+    height: 45px;
+    width: 100%;
+    margin-top: 0;
+    padding-bottom: 20px;
+
+}
+.nav input
+{
+
+    margin-left: 100px;
+    height: 20px;
+    width: 33%;
+    background-color: lightgreen;
+    border: double black;
+    color: blue;
+}
+.nav button{
+
+    margin-left: 10px;
+    /* height: 18px; */
+    height: 22px;
+    border: dotted 2px blueviolet;
+    
+
+}
+video{
+
+    
+    width: 100%;
+}
+.select {
+
+    margin-left: 230px;
+    height: 30px;
+    width: 9%;
+    border: dotted 2px blueviolet;
+    
+
+}
+
+/* section 2 */
+ .head1 h1{
+
+    text-align: center;
+    color: rgb(31, 109, 11);
+}
+
+/* section 3 */
+
+
+
+.nursery{
+    height: 500px;
+    width: 100%;
+    /* border: 2px solid red; */
+   
+}
+
+.pics{
+
+    height: 420px;
+    width: 23%;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color:rgb(167, 197, 242);
+    box-shadow: 5px 5px grey;
+}
+
+.pics img{
+
+height: 250px;
+width: 100%;
+}
+.pics :hover{
+
+    transform: scale(0.95);
+}
+
+.pics button{
+
+    color: white;
+    background-color: blueviolet;
+}
+
+.head hr{
+
+    width: 80%;
+    color: red;
+
+}
+
+.head h2{
+
+    color: purple;
+    text-align: center;
+}
+
+.smalls{
+
+    height: 280px;
+    width: 100%;
+    /* border: 2px solid red; */
+   
+}
+
+.small{
+
+
+    height: 210px;
+    width: 17%;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+
+
+    /* background-color: blue; */
+}
+
+.small img{
+    border-radius: 100px;
+    width: 100%;
+    box-shadow: 3px 3px 3px 3px grey;
+
+}
+
+.small p{
+
+    font-size: 22 px;
+    font-weight: bold;
+color: blue;
+background-color: yellowgreen;
+}
+
+.small :hover{
+
+    transform: scale(1.05);
+}
+
+.head2{
+
+    text-align: center;
+    color: brown;
+}
+ .flowers{
+
+
+    height: 500px;
+    width: 100%;
+    /* border: 2px solid red; */
+ }
+
+ .flower{
+
+
+    height: 430px;
+    width: 17%;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: rgb(103, 132, 157);
+    box-shadow: 10px 10px 5px rgb(100, 99, 99);
+    border-radius: 20px 20px 20px 20px;
+    
+ }
+
+ .flower img{
+
+
+    height: 250px;
+    width: 100%;
+    /* border-radius: 20px ; */
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    bor
+ }
+
+ .flower:hover{
+
+background-color: aquamarine;
+    transform: scale(1.06);
+ }
+
+ .flower button{
+
+
+    color: white;
+    background-color: blue;
+ }
+
+ .lastone{
+
+
+    height: 350px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+    background-color: black;
+ }
+
+ .last iframe{
+
+
+    height: 200px;
+    width: 100%;
+    position: sticky;
+ }
+
+ .last{
+
+    float: left;
+    margin-left: 70px;
+    color: white;
+    text-align: center;
+ }
+
+ .last p{
+
+    font-size: 20px;
+    /* font-weight: bold; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ .last li{
+
+
+    list-style: none;
+ }
+
+ .last i{
+
+    font-size: 30px;
+ }
+ .last input{
+
+    font-size: 15px;
+    width: 100%;
+ }
+
+ .last button{
+
+    font-size: 15px;
+ }
+ .end{
+
+    height: 40px;
+    width: 100%;
+    /* border: 2px solid red; */
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+ }
+
